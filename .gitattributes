@@ -1,0 +1,2 @@
+public/models/flowers-oxford102/*.bin filter=lfs diff=lfs merge=lfs -text
+public/models/flowers-oxford102/model.json filter=lfs diff=lfs merge=lfs -text

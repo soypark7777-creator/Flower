@@ -1,0 +1,29 @@
+{
+  "tulip_label": "siam tulip",
+  "precision": 0.875,
+  "recall": 0.3333333333333333,
+  "false_positive": 1,
+  "false_negative": 14,
+  "top_confusions": [
+    {
+      "label": "ball moss",
+      "count": 2
+    },
+    {
+      "label": "spring crocus",
+      "count": 2
+    },
+    {
+      "label": "yellow iris",
+      "count": 1
+    },
+    {
+      "label": "garden phlox",
+      "count": 1
+    },
+    {
+      "label": "cyclamen",
+      "count": 1
+    }
+  ]
+}
